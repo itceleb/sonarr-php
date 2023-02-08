@@ -5,7 +5,7 @@ Here is the Sonarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require kryptonit3/sonarr
+composer require itceleb/sonarr
 ```
 
 ## Example Usage
